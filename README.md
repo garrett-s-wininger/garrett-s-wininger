@@ -4,10 +4,10 @@ I'm an engineer who's spent the last decade playing around with different operat
 and science topics. I love learning new things and appreciate any chance I get to try out a new idea. Outside of programming, I
 also enjoy electronics, RF systems, and anything technical I can get my hands on.
 
-# Prior Industries
+# Industry Experience
 
-1. Photovoltaics
-2. State Government/Healthcare
-3. Marketing Automation
-4. Defense
-5. Social Media
+1. State Government/Healthcare
+2. Marketing Automation
+3. Defense
+4. Social Media
+5. FinTech
