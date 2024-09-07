@@ -4,7 +4,7 @@ I'm an engineer who's spent the last decade playing around with different operat
 and science topics. I love learning new things and appreciate any chance I get to try out a new idea. Outside of programming, I
 also enjoy electronics, RF systems, and anything else technical I can get my hands on.
 
-My interest generally gravitates to technical exploits, systems-level programming, and computer graphics. That being said, I'm
+My interest generally gravitates toward technical exploits, systems-level programming, and computer graphics. That being said, I'm
 just as happy to work with web technologies or automation tasks, two areas in which I've done the most work.
 
 # Industry Experience
